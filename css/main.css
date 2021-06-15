@@ -20,7 +20,7 @@ a:hover {
     text-decoration: underline; /* on hover, produce underline for links */
 }
 h1 {
-    font-size: 1.6em; /* 1em is equivalent to 16px */
+    font-size: 2em; /* 1em is equivalent to 16px */
 }
 p {
     font-size: 1em;
