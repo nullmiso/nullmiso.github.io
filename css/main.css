@@ -5,6 +5,7 @@ body {
 nav ul, footer ul {
     padding: 0px;
     list-style: none; /* list format but no bullets */
+    font-size: 0.8em;
     font-weight: bold; /* bold footer + nav bar */
 }
 nav ul li, footer ul li {
@@ -19,7 +20,7 @@ a:hover {
     text-decoration: underline; /* on hover, produce underline for links */
 }
 h1 {
-    font-size: 2em; /* 1em is equivalent to 16px */
+    font-size: 1.6em; /* 1em is equivalent to 16px */
 }
 p {
     font-size: 1em;
