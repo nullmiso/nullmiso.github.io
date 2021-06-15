@@ -28,7 +28,7 @@ p {
 }
 footer {
     border-top: 0px solid #d5d5d5; /* d5d5d5 is a light grey */
-    font-size: 1em;
+    font-size: 0.8em;
 }
 ul.posts {
     margin: 20px auto 40px;
