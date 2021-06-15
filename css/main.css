@@ -4,8 +4,8 @@ body {
 }
 nav ul, footer ul {
     padding: 0px;
-    list-style: none;
-    font-weight: bold;
+    list-style: none; /* list format but no bullets */
+    font-weight: bold; /* bold footer + nav bar */
 }
 nav ul li, footer ul li {
     display: inline;
@@ -16,10 +16,10 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline; /* on hover, produce underline for links */
 }
 h1 {
-    font-size: 2em;
+    font-size: 2em; /* 1em is equivalent to 16px */
 }
 p {
     font-size: 1em;
@@ -27,19 +27,16 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 0px solid #d5d5d5; /* d5d5d5 is a light grey */
     font-size: 1em;
 }
-
 ul.posts {
     margin: 20px auto 40px;
     font-size: 1em;
 }
-
 ul.posts li {
     list-style: none;
 }
-
 * {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Helvetica', sans-serif; /* need to decide if helvetica or sans serif is the one being used here */
   }
