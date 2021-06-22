@@ -1,29 +1,16 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">HOME</a></li>
-		        	<li><a href="/about">ABOUT</a></li>
-	        		<li><a href="/archive">ARCHIVE</a></li>
-	        		<li><a href="/blog">BLOG</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:nullmiso@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/nullmiso">github.com/nullmiso</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+<body>
+  <main>
+    <div class="grid grid-centered">
+      <div class="grid-cell">
+        {% include navigation.html %}
+        {{ content }}
+        {% include footer.html %}
+      </div>
+    </div>
+  </main>
+  {% include javascripts.html %}
+</body>
+</html>
