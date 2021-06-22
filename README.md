@@ -1,2 +1,2 @@
 # nullmiso.github.io
-world building
+world building / theme https://github.com/erlzhang/jekyll-theme-persephone
