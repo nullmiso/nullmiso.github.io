@@ -23,6 +23,7 @@
 # rss: "/feed.xml"
 
 # # The followings are settings for displays of your blog.
+theme: jekyll-theme-persephone
 # theme_setting:
 #   # The slides count in the slides layout. Default is 4.
 #   slides_count: 5
@@ -74,5 +75,3 @@
 # smiley:
 #   enabled: true
 #   dir: img/smileys
-
-theme: jekyll-theme-persephone

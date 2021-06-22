@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    jekyll-theme-persephone (0.3.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll-theme-persephone!
+
+BUNDLED WITH
+   1.17.2
