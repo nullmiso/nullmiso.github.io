@@ -1,29 +1,7 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">home</a></li>
-		        	<li><a href="/about">about</a></li>
-	        		<li><a href="/works">works</a></li>
-	        		<li><a href="/blog">blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-
-			{{ content }}
-
-		</div><!-- end container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:nullmiso@gmail.com">email me</a></li>
-	        		<li><a href="https://github.com/nullmiso">github.com/nullmiso</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<html lang="{{ site.locale | default: 'en' }}">
+  {%- include head.html -%}
+  <body class="body-{{ page.layout }}">
+    {{ content }}
+  </body>
+</html>
