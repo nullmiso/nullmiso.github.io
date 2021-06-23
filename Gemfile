@@ -12,3 +12,6 @@ gem "mini_magick"
 gem "sass"
 gem "sprockets", "~> 3.7"
 gem "uglifier"
+
+gem "webrick", "~> 1.7"
+gem "json", "3.0.0"
