@@ -14,4 +14,4 @@ gem "sprockets", "~> 3.7"
 gem "uglifier"
 
 gem "webrick", "~> 1.7"
-gem "json", "3.0.0"
+gem "json", "2.0.2"
