@@ -3,8 +3,8 @@ source "https://rubygems.org"
 gem "autoprefixer-rails"
 gem "html-proofer"
 gem "image_optim"
-gem "github-pages", "204"
-gem "jekyll", '3.8.6'
+gem "github-pages", "215"
+gem "jekyll", '3.9.0'
 gem "jekyll-assets"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
