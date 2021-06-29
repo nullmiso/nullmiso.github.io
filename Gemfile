@@ -12,7 +12,7 @@ gem "jekyll-feed"
 gem "jemoji"
 gem "mini_magick"
 gem "sass"
-gem "sprockets", "~> 4.0.0"
+gem "sprockets", "~> 3.7"
 gem "uglifier"
 gem "json", "2.5.1"
 
