@@ -20,4 +20,3 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
     - LC_ALL=en_US.UTF-8
     - JEKYLL_ENV=production
-
