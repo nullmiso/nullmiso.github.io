@@ -1,0 +1,4 @@
+h1. Post with Permalink
+
+
+<p>Best <strong>post</strong> ever</p>
