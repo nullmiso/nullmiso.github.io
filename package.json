@@ -9,6 +9,7 @@
     "jekyll": "^3.0.0-beta1",
     "jquery": "^3.2.1",
     "node": "^16.3.0",
+    "node-bin-setup": "^1.0.6",
     "npm": "^6.0.1",
     "retinajs": "^2.1.1",
     "svgxuse": "^1.2.4",
