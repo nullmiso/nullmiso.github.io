@@ -79,9 +79,9 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jemoji
   - liquid
   - kramdown
-  - kramdown-parser-gfm
 paginate_path: /posts/page/:num/
 permalink: posts/:slug
