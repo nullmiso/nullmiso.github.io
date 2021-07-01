@@ -1,4 +1,4 @@
 ---
-slug: web
-name: Web
+slug: writing
+name: Writing
 ---
