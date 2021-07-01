@@ -80,5 +80,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-seo-tag
+  - liquid
+  - kramdown
+  - kramdown-parser-gfm
 paginate_path: /posts/page/:num/
 permalink: posts/:slug
