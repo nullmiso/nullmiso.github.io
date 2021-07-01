@@ -6,7 +6,11 @@ thumb_image: "documentation/sample-image.jpg"
 tags: [writing, school]
 ---
 
-#### Valedictorian Speech
+#### A bit of background information
+
+This was a speech that I was unable to deliver to my fellow students at our graduation ceremony due to some unfortunate circumstances. Since I was denied the opportunity to present this in the manner that our decades-long school tradition prescribed, I am hosting it on personal social platforms for the time being. Enjoy :)
+
+#### The speech
 
 Faculty members, family, friends, and fellow graduates of the class of 2021,
 
