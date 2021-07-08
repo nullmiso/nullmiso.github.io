@@ -9,6 +9,7 @@
 
 $black: #000;
 $gray-darkest: #121111;
+$miso-carmine: #ED6663
 $gray-darker: lighten($gray-darkest, 15);
 $gray-dark: lighten($gray-darkest, 30);
 $gray: lighten($gray-darkest, 45);
@@ -20,7 +21,7 @@ $white: #fff;
 // Font colors
 
 $base-font-color: $gray-dark;
-$base-accent-color: $gray-dark;
+$base-accent-color: $miso-carmine;
 $base-accent-highlighted-color: darken($base-accent-color, 15);
 
 // Border color
@@ -30,9 +31,9 @@ $base-border-color: $gray-lightest;
 // Page specific colors
 
 $body-background: $white;
-$header-logo-color: $black;
-$header-link-color: $gray-darker;
-$header-link-color-hover: $gray-darkest;
+$header-logo-color: $miso-carmine;
+$header-link-color: $gray-darkest;
+$header-link-color-hover: $miso-carmine;
 $article-header-title-color: $gray-darkest;
 $article-header-description-color: $gray-dark;
 $article-post-titles-color: $gray-darkest;
