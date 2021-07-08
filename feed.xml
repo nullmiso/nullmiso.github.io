@@ -1,20 +1,26 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>nullmiso</title>
+    <description></description>
+    <link>https://nullmiso.github.io</link>
+    <atom:link href="https://nullmiso.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.description | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <title>Photo dump Monterey 2021 v 1.0</title>
+        <description>Some aesthetically continuous pictures.</description>
+        <pubDate>Wed, 07 Jul 2021 00:00:00 -0700</pubDate>
+        <link>https://nullmiso.github.io/posts/monterey-one</link>
+        <guid isPermaLink="true">https://nullmiso.github.io/posts/monterey-one</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Class of 2021 Valedictorian speech</title>
+        <description>Unpublished speech for the American High School graduation ceremony. Site exclusive.</description>
+        <pubDate>Wed, 30 Jun 2021 00:00:00 -0700</pubDate>
+        <link>https://nullmiso.github.io/posts/valedictorian-speech</link>
+        <guid isPermaLink="true">https://nullmiso.github.io/posts/valedictorian-speech</guid>
+      </item>
+    
   </channel>
 </rss>
