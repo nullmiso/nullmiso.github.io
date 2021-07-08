@@ -8,17 +8,17 @@
 // =============================================================================
 
 @font-face {
-  font-family: 'Cormorant Garamond';
-  font-style: normal;
+  font-family: 'Roboto Mono';
+  font-style: bold;
   font-weight: 700;
-  src: asset_url('cormorant-garamond/Cormorant-Garamond-700.eot');
+  src: asset_url('roboto-mono/Roboto-Mono-Bold.eot');
   src:
-    asset_url('cormorant-garamond/Cormorant-Garamond-700.eot?#iefix') format('embedded-opentype'),
-    local('Cormorant Garamond Medium'),
-    local('Cormorant-Garamond-600'),
-    asset_url('cormorant-garamond/Cormorant-Garamond-700.woff2') format('woff2'),
-    asset_url('cormorant-garamond/Cormorant-Garamond-700.woff') format('woff'),
-    asset_url('cormorant-garamond/Cormorant-Garamond-700.ttf') format('truetype');
+    asset_url('roboto-mono/Roboto-Mono-Bold.eot#iefix') format('embedded-opentype'),
+    local('Roboto Mono Medium'),
+    local('Roboto-Mono-600'),
+    asset_url('roboto-mono/Roboto-Mono-Bold.woff2') format('woff2'),
+    asset_url('roboto-mono/Roboto-Mono-Bold.woff') format('woff'),
+    asset_url('roboto-mono/Roboto-Mono-Bold.ttf') format('truetype');
 }
 
 // Lato
