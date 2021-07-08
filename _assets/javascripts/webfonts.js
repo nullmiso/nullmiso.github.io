@@ -2,6 +2,6 @@
 
 WebFont.load({
   google: {
-    families: ['Libre Barcode 39 Text:700', 'Lato:300,400,700']
+    families: ['Cormorant Garamond:700', 'Helvetica Neue:300,400,700']
   }
 });
