@@ -25,43 +25,37 @@
 // =============================================================================
 
 @font-face {
-  font-family: 'Lato';
+  font-family: 'Helvetica Neue';
   font-style: normal;
   font-weight: 300;
-  src: asset_url('lato/Lato-300.eot');
+  src: asset_url('helvetica-neue/Helvetica-Neue.eot');
   src:
-    asset_url('lato/Lato-300.eot?#iefix') format('embedded-opentype'),
-    local('Lato Light'),
-    local('Lato-300'),
-    asset_url('lato/Lato-300.woff2') format('woff2'),
-    asset_url('lato/Lato-300.woff') format('woff'),
-    asset_url('lato/Lato-300.ttf') format('truetype');
+    asset_url('helvetica-neue/Helvetica-Neue.eot?#iefix') format('embedded-opentype'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff2') format('woff2'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff') format('woff'),
+    asset_url('helvetica-neue/Helvetica-Neue.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: 'Lato';
+  font-family: 'Helvetica Neue';
   font-style: normal;
   font-weight: 400;
-  src: asset_url('lato/Lato-regular.eot');
+  src: asset_url('helvetica-neue/Helvetica-Neue.eot');
   src:
-    asset_url('lato/Lato-regular.eot?#iefix') format('embedded-opentype'),
-    local('Lato Regular'),
-    local('Lato-regular'),
-    asset_url('lato/Lato-regular.woff2') format('woff2'),
-    asset_url('lato/Lato-regular.woff') format('woff'),
-    asset_url('lato/Lato-regular.ttf') format('truetype');
+    asset_url('helvetica-neue/Helvetica-Neue.eot?#iefix') format('embedded-opentype'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff2') format('woff2'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff') format('woff'),
+    asset_url('helvetica-neue/Helvetica-Neue.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: 'Lato';
+  font-family: 'Helvetica Neue';
   font-style: normal;
   font-weight: 700;
-  src: asset_url('lato/Lato-700.eot');
+  src: asset_url('helvetica-neue/Helvetica-Neue.eot');
   src:
-    asset_url('lato/Lato-700.eot?#iefix') format('embedded-opentype'),
-    local('Lato Bold'),
-    local('Lato-700'),
-    asset_url('lato/Lato-700.woff2') format('woff2'),
-    asset_url('lato/Lato-700.woff') format('woff'),
-    asset_url('lato/Lato-700.ttf') format('truetype');
+    asset_url('helvetica-neue/Helvetica-Neue.eot?#iefix') format('embedded-opentype'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff2') format('woff2'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff') format('woff'),
+    asset_url('helvetica-neue/Helvetica-Neue.ttf') format('truetype');
 }
