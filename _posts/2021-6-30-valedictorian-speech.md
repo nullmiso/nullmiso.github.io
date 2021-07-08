@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Valedictorian Speech, Class of 2021"
-description: "Unpublished speech for the American High School graduation ceremony. Site exclusive"
+description: "Unpublished speech for the American High School graduation ceremony. Site exclusive."
 thumb_image: "documentation/sample-image.jpg"
 tags: [writing, school]
 ---
