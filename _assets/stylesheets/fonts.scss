@@ -1,0 +1,61 @@
+// =============================================================================
+// Fonts
+// =============================================================================
+
+@charset "UTF-8";
+
+// Cormorant Garamond
+// =============================================================================
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 700;
+  src: asset_url('cormorant-garamond/Cormorant-Garamond-700.eot');
+  src:
+    asset_url('cormorant-garamond/Cormorant-Garamond-700.eot#iefix') format('embedded-opentype'),
+    local('Cormorant Garamond Medium'),
+    local('Cormorant-Garamond-700'),
+    asset_url('cormorant-garamond/Cormorant-Garamond-700.woff2') format('woff2'),
+    asset_url('cormorant-garamond/Cormorant-Garamond-700.woff') format('woff'),
+    asset_url('cormorant-garamond/Cormorant-Garamond-700.ttf') format('truetype');
+}
+
+// Lato
+// =============================================================================
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 300;
+  src: asset_url('helvetica-neue/Helvetica-Neue.eot');
+  src:
+    asset_url('helvetica-neue/Helvetica-Neue.eot?#iefix') format('embedded-opentype'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff2') format('woff2'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff') format('woff'),
+    asset_url('helvetica-neue/Helvetica-Neue.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 400;
+  src: asset_url('helvetica-neue/Helvetica-Neue.eot');
+  src:
+    asset_url('helvetica-neue/Helvetica-Neue.eot?#iefix') format('embedded-opentype'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff2') format('woff2'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff') format('woff'),
+    asset_url('helvetica-neue/Helvetica-Neue.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 700;
+  src: asset_url('helvetica-neue/Helvetica-Neue.eot');
+  src:
+    asset_url('helvetica-neue/Helvetica-Neue.eot?#iefix') format('embedded-opentype'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff2') format('woff2'),
+    asset_url('helvetica-neue/Helvetica-Neue.woff') format('woff'),
+    asset_url('helvetica-neue/Helvetica-Neue.ttf') format('truetype');
+}
