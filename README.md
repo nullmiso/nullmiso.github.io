@@ -1,2 +1,2 @@
 # nullmiso.github.io
-portfolio + blog website / built with Chalk
+portfolio & blog website / built with Chalk
