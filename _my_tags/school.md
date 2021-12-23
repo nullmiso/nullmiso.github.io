@@ -1,4 +1,0 @@
----
-slug: school
-name: School
----

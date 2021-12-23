@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/assets/cormorant-garamond/Cormorant-Garamond-700-51c2c6f5b44e53050c44900ba708701e37e8a3060bef8b2ada62721bc1ad8b6a.eot);
+  src: url(/assets/cormorant-garamond/Cormorant-Garamond-700-51c2c6f5b44e53050c44900ba708701e37e8a3060bef8b2ada62721bc1ad8b6a.eot#iefix) format("embedded-opentype"), local("Cormorant Garamond Medium"), local("Cormorant-Garamond-700"), url(/assets/cormorant-garamond/Cormorant-Garamond-700-fded23c4b1698170c6e69f76e94ee8fd2655787e19d4b04e16257db322d36ef8.woff2) format("woff2"), url(/assets/cormorant-garamond/Cormorant-Garamond-700-218f613b673b2ed4d3621983c6f5bee31c7b08e7f0bfb5861afbc5991e57f7ff.woff) format("woff"), url(/assets/cormorant-garamond/Cormorant-Garamond-700-b2936c7e380cb7c6dbc62ac24304f7c5b97f1770c7a98c6769b5442f6586da7a.ttf) format("truetype"); }
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 300;
+  src: url(/assets/helvetica-neue/Helvetica-Neue-4bb4f55a5fe82a50e948cff4c85b599e5d23bb46974c9a093998a350b88229dd.eot);
+  src: url(/assets/helvetica-neue/Helvetica-Neue-4bb4f55a5fe82a50e948cff4c85b599e5d23bb46974c9a093998a350b88229dd.eot#iefix) format("embedded-opentype"), url(/assets/helvetica-neue/Helvetica-Neue-63d9f12c82eaf6d1f16e1afbde230f6103cef96937692a526b3e35075f724df0.woff2) format("woff2"), url(/assets/helvetica-neue/Helvetica-Neue-815eeadca2db0a292757809989c68a84ed3ff820a9cd4bf7272164cf06ab7563.woff) format("woff"), url(/assets/helvetica-neue/Helvetica-Neue-35d9c57a5214c5c82cf4de995ffbe4bdaad0cc69239e7c946a0c3ba4ce052f82.ttf) format("truetype"); }
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/helvetica-neue/Helvetica-Neue-4bb4f55a5fe82a50e948cff4c85b599e5d23bb46974c9a093998a350b88229dd.eot);
+  src: url(/assets/helvetica-neue/Helvetica-Neue-4bb4f55a5fe82a50e948cff4c85b599e5d23bb46974c9a093998a350b88229dd.eot#iefix) format("embedded-opentype"), url(/assets/helvetica-neue/Helvetica-Neue-63d9f12c82eaf6d1f16e1afbde230f6103cef96937692a526b3e35075f724df0.woff2) format("woff2"), url(/assets/helvetica-neue/Helvetica-Neue-815eeadca2db0a292757809989c68a84ed3ff820a9cd4bf7272164cf06ab7563.woff) format("woff"), url(/assets/helvetica-neue/Helvetica-Neue-35d9c57a5214c5c82cf4de995ffbe4bdaad0cc69239e7c946a0c3ba4ce052f82.ttf) format("truetype"); }
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/assets/helvetica-neue/Helvetica-Neue-4bb4f55a5fe82a50e948cff4c85b599e5d23bb46974c9a093998a350b88229dd.eot);
+  src: url(/assets/helvetica-neue/Helvetica-Neue-4bb4f55a5fe82a50e948cff4c85b599e5d23bb46974c9a093998a350b88229dd.eot#iefix) format("embedded-opentype"), url(/assets/helvetica-neue/Helvetica-Neue-63d9f12c82eaf6d1f16e1afbde230f6103cef96937692a526b3e35075f724df0.woff2) format("woff2"), url(/assets/helvetica-neue/Helvetica-Neue-815eeadca2db0a292757809989c68a84ed3ff820a9cd4bf7272164cf06ab7563.woff) format("woff"), url(/assets/helvetica-neue/Helvetica-Neue-35d9c57a5214c5c82cf4de995ffbe4bdaad0cc69239e7c946a0c3ba4ce052f82.ttf) format("truetype"); }
