@@ -27,3 +27,4 @@ Class of 2021, I wish you all the best with your future endeavors. Whether as en
 To close, I would like to give some advice for the future. Keep searching for the truth in everything you do; because when you know the truth, the truth will make you free.
 
 Thank you all, congratulations, and God bless.
+

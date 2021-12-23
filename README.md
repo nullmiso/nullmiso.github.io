@@ -1,2 +1,2 @@
 # nullmiso.github.io
-world building / template by nielson ramon
+portfolio & blog website / built with Chalk
